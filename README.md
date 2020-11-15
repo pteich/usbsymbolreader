@@ -7,4 +7,4 @@ It runs on OS X (tested with Mojave), Windows (tested with Windows 10 64Bit) and
 
 No drivers are needed for symbol scanners. It's tested with Zebra DS3678 scanner.
 
-While running it detects new devices or detached devices. It connects to the frist symbol scanner found.
+While running it detects new devices or detached devices. It connects to the first symbol scanner found.
